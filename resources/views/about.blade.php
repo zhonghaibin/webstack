@@ -47,7 +47,7 @@
                                                 <a href="#" class="xe-user-name overflowClip_1">
                                                     <strong> zhonghaibin.</strong>
                                                 </a>
-                                                <p class="overflowClip_2"> zhonghaibin@gmain.com</p>
+                                                <p class="overflowClip_2"> zhonghaibin92@gmail.com</p>
                                             </div>
                                         </div>
                                     </div>
